@@ -1,0 +1,12 @@
+{
+  "name": "bolt-template",
+  "version": "1.0.3",
+  "description": "Bolt.js is an Node.JS Framework that allows you to customize your pages more faster.",
+  "main": "Bolt/start-bolt.js",
+  "scripts": {
+    "bolt": "node ."
+  },
+  "author": "HenriqueAmorim",
+  "github": "https://github.com/henriqueamorimm/bolt-framework",
+  "license": "ISC"
+}

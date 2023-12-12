@@ -1,0 +1,14 @@
+
+---------------------------------------------- PROJECT CONFIG ------------------------------------------------
+PROJECT-TITLE=>Página matemática - Hugo Dória Cardoso
+PROJECT-DESCRIPTION=>An simple bolt project
+PROJECT-LOGO=> https://cdn.discordapp.com/attachments/1116045036921032715/1183788773201412236/Imagem_do_WhatsApp_de_2023-12-11_as_12.13.27_5353be40.jpg?ex=65899c35&is=65772735&hm=cb6f8f6851cdfd0b6609e3d2f6af9d65762b77623fded351242151c114b88643&
+----------------------------------------------- SERVER CONFIG -------------------------------------------------
+PORT=> 2009
+----------------------------------------------- STYLE CONFIG --------------------------------------------------
+BOOTSTRAP=>true
+SWEETALERT=>true
+FOOTER=>false
+NAVBAR=>true
+
+
